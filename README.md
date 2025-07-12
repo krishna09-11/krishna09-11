@@ -24,7 +24,7 @@
 - Zustand, Redux, Context API, React Query, NgRx
 
 ### 🔹 Backend
-- Node.js, Express.js
+- Node.js, Express.js, Happi.js
 - RESTful APIs
 
 ### 🔸 Databases
