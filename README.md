@@ -45,7 +45,7 @@
 
 ## 📫 Get in Touch
 
-- 📧 Email: [krishnaburusu@gmail.com](mailto:krishnaburusu@gmail.com)
+- 📧 Email: [burusumuddukrishna@gmail.com](mailto:burusumuddukrishna@gmail.com)
 - 💼 LinkedIn: https://www.linkedin.com/in/krishna-b-a07980269/
 
 
