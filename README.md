@@ -1,6 +1,6 @@
 # 👋 Hey there, I'm Krishna! (@krishna09-11)
 
-🎯 A passionate **Full Stack Developer** with a strong focus on **Angular** and **Node.js**. I love building clean, performant, and user-friendly web applications that solve real-world problems.
+🎯 A passionate **Full Stack Developer** with a strong focus on **Angular** and **Node.js** and **My SQL**. I love building clean, performant, and user-friendly web applications that solve real-world problems.
 
 ---
 
